@@ -49,5 +49,11 @@ The project requires the following dependencies:
 ## Model
 The LSTM model is trained using TensorFlow and is loaded in `app.py` to make predictions based on user input. The tokenizer used to preprocess the text data is also loaded to ensure consistent results.
 
+## Contact
+For further queries, feel free to reach out to:
+- **Name**: N PUNITH KUMAR
+- **Email**: punithkumarnimmala@gmail.com
+- **GitHub**: https://github.com/punithkumar-10
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
